@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: NanyangYe
       image:
         filename: hero-academic.png
       cta:
