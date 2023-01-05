@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: hero
+    id: about
     content:
       title: NanyangYe
       # Choose a user profile to display (a folder name within `content/authors/`)
