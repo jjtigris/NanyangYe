@@ -6,14 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    id: about
-    content:
-      title: NanyangYe
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      # Override your bio text from `authors/admin/_index.md`?
-      text:
-   
+    title: jj  
     design:
       background:
         gradient_end: '#1976d2'
@@ -26,6 +19,13 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+
+    design:
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
+
   - block: features
     content:
       title: Skills
